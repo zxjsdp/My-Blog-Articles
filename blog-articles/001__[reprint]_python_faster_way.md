@@ -1,8 +1,8 @@
 Python - Faster way
 ===================
 
-Article date: 2015-06-12
-Original article link: <http://pythonfasterway.uni.me/>
+- Article date: 2015-06-12
+- Original article link: <http://pythonfasterway.uni.me/>
 
 Preparation
 -----------
