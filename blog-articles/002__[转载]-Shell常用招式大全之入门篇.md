@@ -1,7 +1,6 @@
 [转载]-Shell常用招式大全之入门篇
 ==============================
 
-
 转载自segmentfault：<http://segmentfault.com/a/1190000002924882>
 
 ![Shell常用招式大全之入门篇](data/linux-shell-script-guide.png)
@@ -725,12 +724,8 @@ shell通配的原理
 
 以上例子用于查找192.168.234.1~192.168.234.255整个网段能ping通的所有ip
 
+转载声明：
+---------
 
 > 本文由 casheywen 创作，采用 知识共享署名 3.0 中国大陆许可协议 进行许可。
->
 > 可自由转载、引用，但需署名作者且注明文章出处。 
-
-<pre>
-         Date:  2015-09-02
-Original link:  <http://segmentfault.com/a/1190000002924882>
-</pre>
