@@ -311,7 +311,7 @@ For Boolean, directly way `if a` or `if not a` is faster than `==` or `<=`.
 
 ### Test 12
 
-`len(list)` is much quicker than `list__len__`
+`len(list)` is much quicker than `list.__len__`
 
     def a():
         a = [1, 2, 3, 4, 5]
