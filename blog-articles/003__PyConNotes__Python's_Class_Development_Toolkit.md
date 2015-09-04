@@ -45,7 +45,7 @@ Main Contents
 
     Add `(object)` for class
 
-3. import math and use math.pi rather than 3.14
+3. import math and use `math.pi` rather than `3.14`
 
    Before:
    `return 3.14 * self.radius ...`
@@ -53,15 +53,15 @@ Main Contents
    After:
    `return math.pi * self.radius...`
 
-4. Add version string in class level rather than instance level
+4. Add version string in **class level** rather than **instance level**
 
-    Use `strings`! Don't use floating point numbers.
+    Use `string`! Don't use floating point numbers.
 
 5. Keep as minimal as possible!!
     
     Minimum viable product
 
-    Too many features is a bad thing
+    **Too many features is a bad thing**
 
 
 **Ship it!**
@@ -90,7 +90,7 @@ Main Contents
 
 **Some points**:
 
-1. Use xrange for memory efficiency and faster.
+1. Use `xrange` for memory efficiency and faster.
 
 2. Use a seed for reproducable result.
 
@@ -481,16 +481,16 @@ Flyweight desing pattern: Slots
 
 3. `Class variables` for data shared among all instances.
 
-4. `Regular methods` need "self" to operate on instance data.
+4. `Regular methods` need "`self`" to operate on instance data.
 
 5. `Class methods` implement alternative constructors. They need "cls" so they
     can create subclass instances as well
 
 6. `Static methods` attach functions to classes. They don't need either "self"
-    or "cls" Static methods improve discoverability and require context to be 
+    or "`cls`" Static methods improve discoverability and require context to be 
     specified.
 
-7. A `property()` lets getter and stter methods be invoded automativally by
+7. A `property()` lets `getter` and `stter` methods be invoded automativally by
     attribute access. This allows Python classes to freely expose their instance
     variables.
 
