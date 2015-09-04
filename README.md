@@ -18,7 +18,7 @@
 -------
 1. [(转载) Python - Faster way](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/001__REPRINT__python_faster_way.md)
 2. [(转载) Shell常用招式大全之入门篇](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/002__REPRINT_shell_guide.md)
-
+3. [(笔记) Python's Class Development Toolkit](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/003__PyConNotes__Python's_Class_Development_Toolkit.md)
 
 -------------------------------------------------------------------------------
 
@@ -43,3 +43,4 @@ Contents
 --------
 1. [(转载) Python - Faster way](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/001__REPRINT__python_faster_way.md)
 2. [(转载) Shell常用招式大全之入门篇](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/002__REPRINT_shell_guide.md)
+3. [(笔记) Python's Class Development Toolkit](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/003__PyConNotes__Python's_Class_Development_Toolkit.md)
