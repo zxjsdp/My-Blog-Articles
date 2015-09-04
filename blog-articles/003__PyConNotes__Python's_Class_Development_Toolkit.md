@@ -1,19 +1,23 @@
 Python's Class Development Toolkit
 ==================================
 
----------------------------------------------------------
+Notes Information
+-----------------
+- Source: Notes for talk from PyCon US 2013
+- Author: Raymond Hettinger
+- Video URL: <https://www.youtube.com/watch?v=HTLu2DFOdTg>
 
-#### Plan
+
+Contents
+--------
 
 1. Python's development toolkit
-
 2. See the various ways users will exercise your classes in unexpectede ways
-
 3. Have a little fun teasing the followers of the Lean Startup Methodology
 
 
----------------------------------------------------------
-
+Main Contents
+-------------
 
 #### Start coding: Circle class
 
@@ -39,7 +43,7 @@ Python's Class Development Toolkit
 
 2. new-style class
 
-    Add `(object)`
+    Add `(object)` for class
 
 3. import math and use math.pi rather than 3.14
 
