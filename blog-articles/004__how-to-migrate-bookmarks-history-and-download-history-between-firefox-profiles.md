@@ -13,7 +13,8 @@ Firefox的用户配置全部在用户文件夹里面，因此可以非常方便�
     "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -p
 
 配置管理器截图：
-firefox_profile_manager
+
+![firefox_profile_manager](data/firefox_profile_manager.png)
 
 如何仅导出书签、历史记录和文件下载记录：
 -----------------------------------
@@ -25,6 +26,8 @@ firefox_profile_manager
 
 注意：执行覆盖前需要关闭Firefox。
 
+
 参考链接：
+
 <https://support.mozilla.org/en-US/questions/1011545>
 <https://support.mozilla.org/zh-CN/kb/%E7%94%A8%E6%88%B7%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6>
