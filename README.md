@@ -19,6 +19,7 @@
 1. [(转载) Python - Faster way](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/001__REPRINT__python_faster_way.md)
 2. [(转载) Shell常用招式大全之入门篇](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/002__REPRINT_shell_guide.md)
 3. [(笔记) Python's Class Development Toolkit](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/003__PyConNotes__Python's_Class_Development_Toolkit.md)
+4. [Firefox如何在多个配置间仅导出书签（包括书签的tags）、历史记录和下载记录](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/004__how-to-migrate-bookmarks-history-and-download-history-between-firefox-profiles.md)
 
 -------------------------------------------------------------------------------
 
@@ -44,3 +45,4 @@ Contents
 1. [(转载) Python - Faster way](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/001__REPRINT__python_faster_way.md)
 2. [(转载) Shell常用招式大全之入门篇](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/002__REPRINT_shell_guide.md)
 3. [(笔记) Python's Class Development Toolkit](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/003__PyConNotes__Python's_Class_Development_Toolkit.md)
+4. [How to migrate bookmarks history and download history between firefox profiles](https://github.com/zxjsdp/My-Blog-Articles/blob/master/blog-articles/004__how-to-migrate-bookmarks-history-and-download-history-between-firefox-profiles.md)
